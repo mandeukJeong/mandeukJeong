@@ -1,6 +1,4 @@
 <div align="center">
-  
-  ### Hi there 👋
 
   ![header](https://capsule-render.vercel.app/api?type=transparent&text=MandeukJeong&fontColor=66cdaa)
   <br />
